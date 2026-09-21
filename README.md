@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7F52FF&center=true&vCenter=true&width=520&lines=Building+ideas+into+code;Learning+by+building;Exploring+software+development;Always+working+on+something" alt="Typing SVG" />
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=kotlin,js,html,css&perline=4" />
-
 </div>
 
 ---
@@ -26,80 +22,75 @@ I enjoy learning by building things, experimenting with new technologies and tur
 
 ---
 
-## Technologies
-
-### Main Stack
+## Main Technologies
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=kotlin" width="55">
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=kotlin" width="55"><br>
-<b>Kotlin</b><br>
+**Kotlin**
+
 <sub>Application Development</sub>
-</td>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=js" width="55"><br>
-<b>JavaScript</b><br>
-<sub>Web & Backend</sub>
-</td>
+<br><br>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=html" width="55"><br>
-<b>HTML</b><br>
+<img src="https://skillicons.dev/icons?i=js" width="55">
+
+**JavaScript**
+
+<sub>Web & Backend Development</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html" width="55">
+
+**HTML**
+
 <sub>Web Structure</sub>
-</td>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=css" width="55"><br>
-<b>CSS</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=css" width="55">
+
+**CSS**
+
 <sub>Web Styling</sub>
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
 
-### Other Technologies
+## Other Technologies
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=python" width="50">
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="50"><br>
-<b>Python</b>
-</td>
+**Python**
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=java" width="50"><br>
-<b>Java</b>
-</td>
+<br>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cs" width="50"><br>
-<b>C#</b>
-</td>
+<img src="https://skillicons.dev/icons?i=java" width="50">
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="50"><br>
-<b>C++</b>
-</td>
+**Java**
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=php" width="50"><br>
-<b>PHP</b>
-</td>
+<br>
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=cs" width="50">
+
+**C#**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp" width="50">
+
+**C++**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=php" width="50">
+
+**PHP**
 
 </div>
 
@@ -111,29 +102,27 @@ These are technologies I've explored through studies, projects and experimentati
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=nodejs" width="55">
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
-<b>Node.js</b><br>
+**Node.js**
+
 <sub>JavaScript Backend</sub>
-</td>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
-<b>MySQL</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55">
+
+**MySQL**
+
 <sub>Relational Databases</sub>
-</td>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=firebase" width="55"><br>
-<b>Firebase</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=firebase" width="55">
+
+**Firebase**
+
 <sub>Backend Services</sub>
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -149,17 +138,15 @@ I've worked with **Node.js** for backend development and have explored databases
 
 <br>
 
-<b>AI & Chatbots</b>
+**AI & Chatbots**
 
-<br>
-
-<sub>Experimentation · Integration · Personal Assistants</sub>
+<sub>Models · APIs · Personal Assistants</sub>
 
 </div>
 
 I've experimented with **pre-trained AI models and chatbot systems**, building small assistants and personal assistant projects.
 
-Areas I've explored include:
+Things I've explored include:
 
 - Pre-trained AI models
 - Chatbot development
@@ -179,9 +166,7 @@ Areas I've explored include:
 
 <br>
 
-<b>Unity</b>
-
-<br>
+**Unity**
 
 <sub>Game Development & Experimentation</sub>
 
@@ -197,23 +182,23 @@ Game development is one of the areas I continue to experiment with alongside oth
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=linux" width="55">
 
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=linux" width="55"><br>
-<b>Linux</b><br>
+<br>
+
+**Linux**
+
 <sub>Servers & Systems</sub>
-</td>
 
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=windows" width="55"><br>
-<b>Windows</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=windows" width="55">
+
+<br>
+
+**Windows**
+
 <sub>Servers & Systems</sub>
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -225,35 +210,43 @@ My background in **SMX** has given me experience with operating systems, network
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=vscode" width="50">
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
-<b>VS Code</b><br>
+<br>
+
+**VS Code**
+
 <sub>Code Editor</sub>
-</td>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=idea" width="50"><br>
-<b>IntelliJ IDEA</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=idea" width="50">
+
+<br>
+
+**IntelliJ IDEA**
+
 <sub>IDE</sub>
-</td>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=git" width="50"><br>
-<b>Git</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git" width="50">
+
+<br>
+
+**Git**
+
 <sub>Version Control</sub>
-</td>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=github" width="50"><br>
-<b>GitHub</b><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github" width="50">
+
+<br>
+
+**GitHub**
+
 <sub>Code & Projects</sub>
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -261,8 +254,11 @@ My background in **SMX** has given me experience with operating systems, network
 
 ## Education
 
-**DAM — Desarrollo de Aplicaciones Multiplataforma**  
+**DAM — Desarrollo de Aplicaciones Multiplataforma**
+
 Instituto Tecnológico de Barcelona
+
+<br>
 
 **SMX — Sistemas Microinformáticos y Redes**
 
