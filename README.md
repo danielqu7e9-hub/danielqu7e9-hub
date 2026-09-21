@@ -18,11 +18,11 @@
 
 I'm Daniel, a **DAM student** at the **Instituto Tecnológico de Barcelona**.
 
-I started programming because I wanted to create videogames. Since then, I've become interested in software development in general, exploring different technologies and areas depending on what I want to build.
+I started programming because I wanted to create videogames. Since then, I've become interested in software development in general and enjoy exploring different technologies and areas depending on what I want to build.
 
 I'm currently exploring **backend, full-stack development, artificial intelligence, game development and systems**.
 
-I enjoy learning by building things and experimenting with new ideas.
+I enjoy learning by building things, experimenting with new technologies and turning ideas into working projects.
 
 ---
 
@@ -35,25 +35,25 @@ I enjoy learning by building things and experimenting with new ideas.
 <table>
 <tr>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=kotlin" width="55"><br>
 <b>Kotlin</b><br>
 <sub>Application Development</sub>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=js" width="55"><br>
 <b>JavaScript</b><br>
-<sub>Web Development</sub>
+<sub>Web & Backend</sub>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=html" width="55"><br>
 <b>HTML</b><br>
 <sub>Web Structure</sub>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=css" width="55"><br>
 <b>CSS</b><br>
 <sub>Web Styling</sub>
@@ -63,6 +63,8 @@ I enjoy learning by building things and experimenting with new ideas.
 </table>
 
 </div>
+
+---
 
 ### Other Technologies
 
@@ -113,6 +115,12 @@ These are technologies I've explored through studies, projects and experimentati
 <tr>
 
 <td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
+<b>Node.js</b><br>
+<sub>JavaScript Backend</sub>
+</td>
+
+<td align="center" width="150">
 <img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
 <b>MySQL</b><br>
 <sub>Relational Databases</sub>
@@ -128,6 +136,38 @@ These are technologies I've explored through studies, projects and experimentati
 </table>
 
 </div>
+
+I've worked with **Node.js** for backend development and have explored databases, backend services and application logic.
+
+---
+
+## Artificial Intelligence
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55">
+
+<br>
+
+<b>AI & Chatbots</b>
+
+<br>
+
+<sub>Experimentation · Integration · Personal Assistants</sub>
+
+</div>
+
+I've experimented with **pre-trained AI models and chatbot systems**, building small assistants and personal assistant projects.
+
+Areas I've explored include:
+
+- Pre-trained AI models
+- Chatbot development
+- Personal assistants
+- AI API integration
+- Model-based applications
+- OpenAI technologies
+- Hugging Face
 
 ---
 
@@ -147,24 +187,26 @@ These are technologies I've explored through studies, projects and experimentati
 
 </div>
 
-My interest in programming started with videogames, which led me to explore game development and Unity.
+My interest in programming originally started with **videogames**, which motivated me to explore game development and Unity.
+
+Game development is one of the areas I continue to experiment with alongside other areas of software development.
 
 ---
 
-## Systems
+## Systems & Servers
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="150">
+<td align="center" width="160">
 <img src="https://skillicons.dev/icons?i=linux" width="55"><br>
 <b>Linux</b><br>
 <sub>Servers & Systems</sub>
 </td>
 
-<td align="center" width="150">
+<td align="center" width="160">
 <img src="https://skillicons.dev/icons?i=windows" width="55"><br>
 <b>Windows</b><br>
 <sub>Servers & Systems</sub>
@@ -175,7 +217,7 @@ My interest in programming started with videogames, which led me to explore game
 
 </div>
 
-My background in **SMX** has given me experience with operating systems, networks, server environments and system configuration.
+My background in **SMX** has given me experience with operating systems, networks, server environments, configuration and administration.
 
 ---
 
@@ -186,25 +228,25 @@ My background in **SMX** has given me experience with operating systems, network
 <table>
 <tr>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
 <b>VS Code</b><br>
 <sub>Code Editor</sub>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=idea" width="50"><br>
 <b>IntelliJ IDEA</b><br>
 <sub>IDE</sub>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=git" width="50"><br>
 <b>Git</b><br>
 <sub>Version Control</sub>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=github" width="50"><br>
 <b>GitHub</b><br>
 <sub>Code & Projects</sub>
@@ -228,7 +270,7 @@ Instituto Tecnológico de Barcelona
 
 ## Certifications
 
-**Sage Platform**
+### Sage Platform
 
 - Basic Platform
 - Advanced Platform — Security
@@ -241,6 +283,16 @@ Instituto Tecnológico de Barcelona
 <div align="center">
 
 `Backend` · `Full-Stack` · `AI` · `Game Development` · `Systems`
+
+</div>
+
+---
+
+## Projects
+
+<div align="center">
+
+More projects coming soon.
 
 </div>
 
