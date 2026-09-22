@@ -1,3 +1,9 @@
+<div align="center">
+
+### My Activity
+
+</div>
+
 <img src="https://raw.githubusercontent.com/danielqu7e9-hub/danielqu7e9-hub/output/github-snake-dark.svg" alt="Snake animation eating my contributions" width="100%" />
 
 <div align="center">
@@ -181,10 +187,8 @@ Instituto Tecnológico de Barcelona
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielqu7e9-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=7F52FF" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=danielqu7e9-hub&theme=radical&hide_border=true&background=0d1117&ring=7F52FF&fire=7F52FF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielqu7e9-hub&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7F52FF" width="49%" />
+<img src="https://raw.githubusercontent.com/danielqu7e9-hub/danielqu7e9-hub/main/profile/stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/danielqu7e9-hub/danielqu7e9-hub/main/profile/top-langs.svg" width="49%" />
 
 </div>
 
