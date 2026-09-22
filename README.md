@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/danielqu7e9-hub/danielqu7e9-hub/output/github-snake-dark.svg" alt="Snake animation eating my contributions" width="100%" />
+<img src="https://raw.githubusercontent.com/danielqu7e9-hub/danielqu7e9-hub/output/github-snake-dark.svg" alt="Snake animation eating my contributions" width="100%" /> <div align="center">
 
 <div align="center">
 
