@@ -197,7 +197,6 @@ Instituto Tecnológico de Barcelona
 ## Projects
 
 More projects coming soon.
-Yu Zhang
 
 ---
 
